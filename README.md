@@ -12,7 +12,7 @@ A minimalist, crystal-clear Windows desktop utility designed using the **MVC (Mo
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/sheikh-firmware-developer/Exit-Time-Calculator.git
    cd TimeTracker
    ```
 2. Run the application directly using Python:
