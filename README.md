@@ -13,7 +13,7 @@ A minimalist, crystal-clear Windows desktop utility designed using the **MVC (Mo
 1. Clone the repository:
    ```bash
    git clone https://github.com/sheikh-firmware-developer/Exit-Time-Calculator.git
-   cd TimeTracker
+   cd Exit-Time-Calculator
    ```
 2. Run the application directly using Python:
    ```bash
