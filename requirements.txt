@@ -1,0 +1,3 @@
+# No heavy external UI framework dependencies needed
+# PyInstaller is only used for building the executable binaries
+pyinstaller>=6.0.0
